@@ -1,0 +1,4 @@
+interface:
+  display_name: "Task Context Development"
+  short_description: "Spec-driven development with checkpoints and recovery"
+  default_prompt: "Use $task-context-dev to organize and complete this repository task with focused source context and a recoverable checkpoint."
